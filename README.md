@@ -18,3 +18,4 @@ Stories:
 + User can receive recommendation to find buddies easier
 
 
+Overview of layout: https://drive.google.com/open?id=0B-hDIfNrvdcEc0lxaEpyZDBFMWs
